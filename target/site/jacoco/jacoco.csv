@@ -1,0 +1,9 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+junits,com.nisum.junits,BookController,3,78,1,1,1,18,1,7,0,7
+junits,com.nisum.junits,ProductController,3,86,1,1,1,20,1,7,0,7
+junits,com.nisum.junits,UserService,0,12,0,2,0,4,0,3,0,2
+junits,com.nisum.junits,Calculator,0,19,0,0,0,5,0,5,0,5
+junits,com.nisum.junits,User,0,21,0,0,0,8,0,4,0,4
+junits,com.nisum.junits,Product,0,59,0,0,0,19,0,13,0,13
+junits,com.nisum.junits,JunitsApplication,5,3,0,0,2,1,1,1,1,1
+junits,com.nisum.junits,Book,0,39,0,0,0,13,0,9,0,9

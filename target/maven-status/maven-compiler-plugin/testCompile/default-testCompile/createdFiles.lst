@@ -1,0 +1,6 @@
+com\nisum\junits\LifecycleTest.class
+com\nisum\junits\CalculatorTest.class
+com\nisum\junits\UserTest.class
+com\nisum\junits\ProductControllerIntegrationTest.class
+com\nisum\junits\UserServiceTest.class
+com\nisum\junits\BookControllerIntegrationTest.class

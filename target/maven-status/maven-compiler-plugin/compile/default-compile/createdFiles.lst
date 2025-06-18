@@ -1,0 +1,10 @@
+com\nisum\junits\Product.class
+com\nisum\junits\ProductRepository.class
+com\nisum\junits\Calculator.class
+com\nisum\junits\JunitsApplication.class
+com\nisum\junits\ProductController.class
+com\nisum\junits\User.class
+com\nisum\junits\BookRepository.class
+com\nisum\junits\BookController.class
+com\nisum\junits\UserService.class
+com\nisum\junits\Book.class
